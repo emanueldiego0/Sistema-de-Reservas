@@ -1,7 +1,10 @@
-<p>Top Gerenciamentos </p>
-<p1> Sistema de Reservas</p1>
+<h1>Top Gerenciamentos </h1>
 
+<h2> Sistema de Reservas</h2>
 
+<p>
+  Equipe:
+</P>
 
 
 
